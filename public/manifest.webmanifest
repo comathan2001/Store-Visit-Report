@@ -1,0 +1,9 @@
+{
+  "name": "Store Visit Report",
+  "short_name": "Visit Reports",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f0e8",
+  "theme_color": "#bf5f2f",
+  "description": "Offline-first store visit reporting."
+}
